@@ -1,26 +1,22 @@
 {
-   "Ads":[
-      {
-         "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"7a9f381daaa94492859ac39cffbff00e",
-         "interstitial_id":"d307029c31774718862c2446be772469",
-         "native_id":"1fce19d3927a474ebab5399a968dda83",
-         "qureka_ads":"https://831.win.qureka.com/",
-         "status":"true",
-         "splash_ads":"false"
-      },
-      {
-         "app_id":"",
-         "banner_id":"714029619987507_714645019925967",
-         "interstitial_id":"714029619987507_714030093320793",
-          "interstitial_id1":"714029619987507_714030093320793",
-          "interstitial_id2":"714029619987507_714030093320793",
-         "native_id":"714029619987507_714645086592627",
-         "native_banner_id":"",
-         "rectangle_banner_id":"",
-         "status":"true",
-         "splash_ads":"false"
-         
-}
-   ]
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://831.win.qureka.com/",
+   "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
+   "admob_showAdStatus":"0",
+   "AppID":"",
+   "Admob_Banner":"",
+   "Admob_Interstitial":"",
+   "Admob_Native":"",
+   "AppOpen":"",
+   "fbad_showStatus":"1",
+   "mopub_banner":"",
+   "mopub_inter1":"",
+   "mopub_inter2":"",
+   "mopub_inter3":"",
+   "mopub_native":""
 }
