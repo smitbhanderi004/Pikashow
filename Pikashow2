@@ -1,26 +1,22 @@
 {
-   "Ads":[
-      {
-         "app_id":"ca-app-pub-3940256099942544~3347511713",
-         "banner_id":"ca-app-pub-3940256099942544/6300978111",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
-         "native_id":"ca-app-pub-3940256099942544/2247696110",
-         "qureka_ads":"https://831.win.qureka.com/",
-         "status":"true",
-         "splash_ads":"false"
-      },
-      {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"488735788877178_488736368877120",
-         "interstitial_id":"488735788877178_489108908839866",
-          "interstitial_id1":"488735788877178_489108955506528",
-          "interstitial_id2":"488735788877178_489109015506522",
-         "native_id":"488735788877178_489108845506539",
-         "native_banner_id":"488735788877178_489108768839880",
-         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "status":"true",
-         "splash_ads":"false"
-         
-}
-   ]
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://831.win.qureka.com/",
+   "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
+   "admob_showAdStatus":"0",
+   "AppID":"",
+   "Admob_Banner":"",
+   "Admob_Interstitial":"",
+   "Admob_Native":"",
+   "AppOpen":"",
+   "fbad_showStatus":"1",
+   "mopub_banner":"b59ebe92caa242a28ece6d7f555e4c39",
+   "mopub_inter1":"90707c8646234224b1b2f0692cec394d",
+   "mopub_inter2":"90707c8646234224b1b2f0692cec394d",
+   "mopub_inter3":"90707c8646234224b1b2f0692cec394d",
+   "mopub_native":"78d8e0bf32064f10b1c40f864464af83"
 }
